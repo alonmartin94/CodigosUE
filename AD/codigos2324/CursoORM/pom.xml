@@ -16,7 +16,7 @@
     </properties>
 
     <dependencies>
-
+        <!--Librearias para simplificar las construcciones de clases -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
